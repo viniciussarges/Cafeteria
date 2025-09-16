@@ -30,3 +30,13 @@ li{
     text-decoration: none;
     list-style: none;
 }
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 255, 170);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
