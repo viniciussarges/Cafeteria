@@ -7,5 +7,9 @@ body{
 }
 
 h1{
-    color: rgb(0, 162, 255);
+    color: rgb(255, 145, 0);
+}
+
+li{
+    text-decoration: none;
 }
